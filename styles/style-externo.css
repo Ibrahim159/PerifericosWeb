@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 12px;
+}
+
+:root{
+    --dark: #0E1F40;
+    --blue-light: #2649F0;
+    --blue-weight: #150773;
+    --blue-bad: #0B0340;
+    --pink-bby: #F23869;
+}
+
+main{
+    width: 100%;
+    height: 200vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background: var(--dark);
+    color: #fff;
+}
+
+.row {
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 27%;
+    height: 30%;
+    border: 2px solid var(--blue-light);
+}
+
+.row-content {
+    width: 100%;
+    padding: 1rem;
+}
+
+.row-content>h2 {
+    font-size: 2.6rem;
+}
+
+.row-content>p {
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+.row-img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+    
+}
+
+.img-background{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+    background: var(--blue-light);
+    border-radius: 50%;
+}
+
+.img-background>img {
+    width: 230px;
+    height: 200px;
+}

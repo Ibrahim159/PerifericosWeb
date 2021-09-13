@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Memoria RAM",
+        "content": "Memoria principal de un dispositivo, es donde se almacenan de manera temporal el cache de los programas que se utilizan frecuentemente para una rápida accesibilidad a estos.",
+        "pic": "https://www.pngall.com/wp-content/uploads/5/RGB-Ram-Transparent.png"
+    },
+    {
+        "id": 2,
+        "name": "CPU",
+        "content": "La unidad de procesamiento central la podriamos definar como el cerebro de la computadora, interpreta las instrucciones de un software",
+        "pic": "https://www.cnet.com/a/img/x4jA6mBoP64E4SOKFJ9ii1l4pZc=/940x0/2018/04/12/5bc3f301-56c0-4b34-9e07-b33eb0c7e5a6/ryzen-chip-1.png"
+    },
+    {
+        "id": 3,
+        "name": "Unidad de Almacenamiento",
+        "content": "Como su nombre lo indica, este dispositivo almacena toda la información y los datos que maneja la computadora.",
+        "pic": "https://shop.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/ssd-plus-sata-iii-ssd/gallery/ssd-plus-sata-iii-ssd-left.png.thumb.1280.1280.png"
+    },
+    {
+        "id": 4,
+        "name": "Tarjeta Madre",
+        "content": "Es el esqueleto de la computadora, donde podremos conectar todos nuestros componentes.",
+        "pic": "https://dlcdnimgs.asus.com/websites/global/products/sqlhk1j3w9jgpcci/img/z490/kv/hero.png"
+    },
+    {
+        "id": 5,
+        "name": "Cooler",
+        "content": "Ventilador capaz de enfriar y mantener la temperatura de los dispositivos conectados a la tarjeta madre. Siempre lo encontraremos encima del procesador.",
+        "pic": "https://www.adamant.com/content/images/thumbs/0000711_120mm-quiet-edition-water-liquid-cpu-cooler.png"  
+    },
+    {
+        "id": 6,
+        "name": "Fuente de Poder",
+        "content": "Suministra energía a todos los dispositivos que se conectan a la computadora.",
+        "pic": "https://www.pcdigital.com.mx/image/cache/catalog/pcdigital/2016/ES-05001a-500x500.png"  
+    },
+    {
+        "id": 7,
+        "name": "Memoria ROM",
+        "content": "Es una memoria unicamente de lectura, esta almacena instrucciones y datos de manera permanente.",
+        "pic": "https://www.monografias.com/docs114/como-reconocer-memoria-ram-rom/image010.png"   
+    },
+    {
+        "id": 8,
+        "name": "BIOS",
+        "content": "La BIOS se encarga de funciones a un muy bajo nivel de nuetra computadora, como podria ser la secuencia de arranque.",
+        "pic": "http://supportishere.com/wp-content/uploads/2019/01/ami_chip_ds_627x417.png"  
+    },
+    {
+        "id": 9,
+        "name": "GPU",
+        "content": "La unidad de procesamiento grafico es un coprocesador dedicado al procesamiento de graficos, para aligerar la carga de trabajo al CPU.",
+        "pic": "https://www.pngall.com/wp-content/uploads/5/Graphic-Card-PNG-File-Download-Free.png"   
+    }
+]

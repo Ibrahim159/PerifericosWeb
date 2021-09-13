@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Mouse",
+        "content": "Se puede definir como un dispositivo apuntador y periferico de entrada, se utiliza para facilitar el manejo de un entorno grafico.",
+        "pic": "https://assets.razerzone.com/eeimages/products/25919/daelite_gallery02.png"
+    },
+    {
+        "id": 2,
+        "name": "Keyboard",
+        "content": "Un teclado es un periferico de entrada, inspirado en el teclado de una maquina de escribir, mediante sus teclas envian toda la información a la computadora.",
+        "pic": "https://cdn.shopify.com/s/files/1/0290/8287/8012/products/GK-980_1024x1024.png?v=1587661774"
+    },
+    {
+        "id": 3,
+        "name": "Headset",
+        "content": "Los audifonos reciben una señal electrica originada desde la computadora. Su diseño nos permite colocarlos cerca de las orejas, funcionan como bocinas.",
+        "pic": "https://resource.logitechg.com/w_1000,c_limit,q_auto,f_auto,dpr_auto/d_transparent.gif/content/dam/gaming/en/products/g332/g332-hero.png?v=1"
+    },
+    {
+        "id": 4,
+        "name": "Speakers",
+        "content": "Los altavoces son un periferico de salida electroacustico utilizado para la reproducción de sonido.",
+        "pic": "https://purepng.com/public/uploads/large/purepng.com-audio-speakeraudio-speakersaudiospeakerssound-speaker-1701528343466z2uvi.png"
+    },
+    {
+        "id": 5,
+        "name": "Printer",
+        "content": "Una impresora es un periferico de salida permite producir documentos de texto o imagenes en medios fisicos.",
+        "pic": "https://snipstock.com/assets/cdn/png/406b5d6d610a8d9461d1da6a63ccba14.png"  
+    },
+    {
+        "id": 6,
+        "name": "Scanner",
+        "content": "Periferico de entrada nos permite copiar, mediante el uso de luz, imagenes impresas o textos impresos a un formato digital.",
+        "pic": "https://pngimg.com/uploads/scanner/scanner_PNG11362.png"  
+    },
+    {
+        "id": 7,
+        "name": "Virtual Reality Headset",
+        "content": "Los lentes de realidad virtual son periféricos de salidad, nos permite reproducir imagenes creadas por computadoras sobre la retina del ojo.",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Oculus-Rift-CV1-Headset-Front_with_transparent_background.png/1200px-Oculus-Rift-CV1-Headset-Front_with_transparent_background.png"   
+    },
+    {
+        "id": 8,
+        "name": "Monitor",
+        "content": "Un monitor es un periferico de salida, nos permiten desplegar señales de video.",
+        "pic": "https://www.pngarts.com/files/2/Monitor-PNG-Background-Image.png"  
+    },
+    {
+        "id": 9,
+        "name": "eGPU",
+        "content": "La unidad de procesamiento grafico externa es un coprocesador dedicado al procesamiento de graficos, para aligerar la carga de trabajo al CPU. A diferencia del tipico GPU este periferico no se encuentra instalado dentro del gabinete.",
+        "pic": "https://cdn.coolermaster.com/media/assets/1022/eg200_webpage_1175x1120_imagewithtext_block1-imageleftorright.png"   
+    }
+]
